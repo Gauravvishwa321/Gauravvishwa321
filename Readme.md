@@ -15,6 +15,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rfABy2d6ZYbXI40WnWvbvmWhqsNbwdg3/view?usp=sharing](https://drive.google.com/file/d/1rfABy2d6ZYbXI40WnWvbvmWhqsNbwdg3/view?usp=sharing)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gauravvishwa12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="gauravvishwa12" height="30" width="40" /></a>
@@ -22,6 +26,7 @@
 <a href="https://instagram.com/gaurav_vishwa_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="gaurav_vishwa_official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucxa6b7yjerfpo_4sr66skrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ucxa6b7yjerfpo_4sr66skrq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gaurav1234567896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="gaurav1234567896" height="30" width="40" /></a>
+<a href="/https://www.blogger.com/blog/posts/3392877488191995067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://www.blogger.com/blog/posts/3392877488191995067" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
