@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravvishwa12" target="blank"><img src="https://img.shields.io/twitter/follow/gauravvishwa12?logo=twitter&style=for-the-badge" alt="gauravvishwa12" /></a> </p>
 
-- 🔭 I’m currently working on [Education and Tech based startup](https://www.techworksitsolution.in)
+- 🔭 I’m currently working at Assistant Professor @KASHI INSTITUTE OF TECHNOLOGY
 
 - 🌱 I’m currently learning **Python and Frameworks, Ethical hacking**
 
